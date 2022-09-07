@@ -1,4 +1,4 @@
-## Hey! Eu sou o p4nic!
+## Heyyy! Eu sou o p4nic!
 
 <div>
   <a href="https://github.com/p4nickkj">
@@ -8,6 +8,3 @@
   ##
   
 ![Snake animation](https://github.com/p4nickkj/p4nickkj/blob/output/github-contribution-grid-snake.svg)
-
- 
- 
