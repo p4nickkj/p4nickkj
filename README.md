@@ -1,6 +1,6 @@
 <h1>Heyyy! 👋</h1>
 
-Some people know me as p4nic. I'm 19. Currently living in Portugal.
+Some people know me as p4nic. I'm 20. Currently living in Portugal.
 <br>I'm currently focused on [Python](https://www.python.org) using [discord.py](https://discordpy.readthedocs.io/en/stable/) to develop Scooby.
 
 <div>
